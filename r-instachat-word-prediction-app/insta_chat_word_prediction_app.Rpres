@@ -1,0 +1,80 @@
+<small style ="font-size:.7em">
+InstaChat Word Prediction App
+========================================================
+author: Stephanie Stallworth
+date: May 16, 2017
+autosize: true
+width: 1440
+height: 1000
+
+Overview 
+========================================================
+
+**InstaChat** is a fast and easy app that suggests words based on user input.  
+
+Features include:   
+
+- Capability to input single words or phrases
+- Predictions from multiple sources:  Twitter, blogs, and news sites
+- Instant results! 
+
+How it Works
+========================================================
+<small>**Predictive Algorithm**
+
+This app uses an N-gram backoff model trained with English text from three sources - news, blogs, and tweets.   
+The zip file can be download from: https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip
+
+After cleaning the data, exploratory analysis and Natural Language Processing techniques were applied to build n-gram frequency tables for 1-word, 2-word, and 3-word combinations (known as unigram, bigram, and trigrams).    
+
+The algorithm then uses the resulting data frames to predict the next word based on user inputted text and the frequencies of underlying n-gram tables.
+
+**InstaChat App**  
+
+When the user inputs text, the algorithm will perform the following procedure:  
+1.   Search the trigram model to predict the next word.  
+2.   If no matching 3-word combinations exist, the algorithm will roll back to the bigram model.  
+3.   If still no matches, output most frequent unigram.  
+
+This process is repeated to output most probable word based on each source type: Twitter, blogs, and news.
+
+Complete code and related documentation can be viewed via: https://github.com/StephanieStallworth/InstaChat_Word_Prediction_App </small>  
+
+User Guide
+========================================================
+<small>**1. Run App:**
+https://stephaniestallworth.shinyapps.io/instachat_word_prediction_app/
+
+**2. Input word or phrase in text box**  
+
+Parameters:
+- English text
+- Exclude numbers and special characters
+
+**3. Click 'Predict'**</small>
+
+![alt text](InstaChat.PNG)
+
+Performance & Future Development
+========================================================
+**Predictive Performance**
+
+- Fast response time of ~1 second
+- Low memory requirements
+- Above average prediction accuracy
+ 
+**Future Development**  
+
+InstaChat is performant both in speed and accuracy, but that is just the beginning!  
+
+Possible features to implement in future releases:     
+
+- Expanding app to support multiple languages
+- Capability to input numbers and emojis
+- Instantaneous results as user is typing text
+
+
+
+
+
+
