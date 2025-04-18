@@ -1,17 +1,93 @@
-## Insachat Word Prediction App
-[Insachat Word Prediction App Presentation](https://rpubs.com/StephanieStallworth/278519)
-https://rpubs.com/StephanieStallworth
+# R Coursework 
 
+## Classification Models
+
+### Iris Classification
+[Iris Machine Learning | rpubs.com](https://rpubs.com/StephanieStallworth/269560)  
+Multinomial classification on Iris dataset.  
+
+### Titanic Classification Decision Tree  
+Analysis of `titanic` dataset to identify types of people that were likely to survive and apply machine learning to predict which passengers survived.
+
+### Weight Lifting Classification Decision Tree Boosting  
+[Predictive Machine Learning | rpubs.com](https://rpubs.com/StephanieStallworth/267931)  
+Predictive modeling to predict the manner in which participants perform weightlifting exercises for 20 different test cases.  
+
+### Weight Lifting Classification Random Forest   
+[Predictive Machine Learning | rpubs.com](https://rpubs.com/StephanieStallworth/267931)  
+Predictive modeling to predict the manner in which participants perform weightlifting exercises for 20 different test cases.  
+
+## EDA Visualization  
+### Activity Tracker EDA  
+[Activity Tracker Reproducible Research | rpubs.com](https://rpubs.com/StephanieStallworth/267866)  
+Reproducible analysis of data collected from activity monitoring devices.  
+
+### Central Limit Theorem EDA  
+[Central Limit Theorem Exploratory Analysis | rpubs.com](https://rpubs.com/StephanieStallworth/267903)  
+Exploratory analysis investigating the exponential distribution in R as it relates to the Central Limit Theorem.  
+
+### Electric Power Consumption EDA  
+[Power Consumption Exploratory Analysis | rpubs.com](https://rpubs.com/StephanieStallworth/267854)  
+Exploratory analysis of "Individual household electric power consumption" data set from the University of California Machine Learning Repository.   
+
+### EPA Emissions EDA
+[EPA Emissions Exploratory Data Analysis | rpubs.com](https://rpubs.com/StephanieStallworth/267840)  
+Exploratory analysis of the EPA's National Emissions Inventory database to identify trends in fine particulate matter solution in the United States between 1999-2008.  
+
+### Motor Trend Presentation Plotly  
+[Plotly Interactive Web Graph | rpubs.com](https://rpubs.com/StephanieStallworth/267826)  
+R Markdown presentation demonstrating how to create an interactive graph with Plotly.  
+
+### National Weather Service Storm EDA  
+[Storm Data Reproducible Rearch: Impact of Severe Weather Events in the United States | rpubs.com](https://rpubs.com/StephanieStallworth/261892)  
+Analysis of severe weather events using U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database.    
+
+### Swiftkey EDA Basic  
+[Predictive Text Exploratory Analysis](https://rpubs.com/StephanieStallworth/276072)  
+Report demonstrating exploratory analysis and Natural Language Processing (NLP) techniques for the eventual development of a predictive text model and app.  
+
+### Swiftkey EDA Word Cloud N-Gram  
+[Predictive Text Model | rpubs.com](https://rpubs.com/StephanieStallworth/276923)  
+Predictive model to suggest text from a given list of questions.  
+
+### Swiftkey Predictive Model
+[Predictive Text Model | rpubs.com](https://rpubs.com/StephanieStallworth/276923)  
+Predictive model to suggest text from a given list of questions.  
+
+### Tooth Growth Inferential Anlaysis
+[Tooth Growth Inferential Analysis | rpubs.com](https://rpubs.com/StephanieStallworth/267914)  
+Inferential analysis using the `ToothGrowth` data set  
+
+### UD Leaflet Map 
+[Leaflet Interactive Map | rpubs.com](https://rpubs.com/StephanieStallworth/267821)  
+Interactive map of the University of Dayton using Leaflet  
+
+## Instachat Word Prediction App    
+[Insachat Word Prediction App | rpubs.com ](https://rpubs.com/StephanieStallworth/278519)  
+R Shiny app predicting text based on user input.  
+
+## Regression Models  
+
+### Linear Regression Cars MPG  
+[Regression Modeling with `mtcars` Dataset | rpubs.com](https://rpubs.com/StephanieStallworth/267819)  
+Regression analysis exploring the mtcars data set.  
+
+### Linear Regression Longley  
+[Longley Linear Regression | rpubs.com](https://rpubs.com/StephanieStallworth/269760)  
+Demonstrating four popular linear regression techniques on the Longley employment dataset.  
+
+### Non-Linear Regression Longley     
+[Longley Non-Linear Regression | rpubs.com](https://rpubs.com/StephanieStallworth/269766)  
+Fitting four non-linear regression techniques to Longley dataset.      
 
 ## StockTrak  R Shiny App
-https://rpubs.com/StephanieStallworth/269124
+[StockTrak Shiny App](https://rpubs.com/StephanieStallworth/269124)  
+R Shiny application designed to report stock performance over a selected period of time.    
 
+## R Tidy Datasets    
+Program to create a tidy dataset consising of the mean value for each variable of each subject-activity pair.  
 
-
-
-
-
-## [Machine Learning A-Z: AI, Python & R (Udemy)](https://www.udemy.com/course/machinelearning/)
+## [Machine Learning & Deep Learning A-Z: AI, Python & R (Udemy)](https://www.udemy.com/course/machinelearning/)
 ### Section 1: Welcome to the Course! 
 1. Welcome Challenge!   
 2. Machine Learning Demo -  Get Excited!   
