@@ -1,4 +1,248 @@
 # R Course Work
+## [Deep Learning A-Z 2024: Neural Networks, AI & ChatGPT Prize (Udemy)](https://www.udemy.com/course/deeplearning/)
+
+### Section 1: Welcome To The Course!  
+1. Welcome Challenge!    
+2. What is Deep Learning?    
+3. Get the Datasets Here    
+
+### Section 2: Part 1: Artificial Neural Networks
+5. Welcome to Part 1 - Artificial Neural Networks    
+
+### Section 3: ANN Intuition 
+6. What You'll Need for ANN    
+7. Plan of Attack    
+8. The Neuron     
+9. The Activation Function     
+10. How Do Neural Networks Work?    
+11. How Do Neural Networks Learn?     
+12. Gradient Descent     
+13. Stochastic Gradient Descent    
+14. Backpropagation     
+
+### Section 4: Building an ANN
+15. Business Problem Description    
+16. Important Note    
+17. Building an ANN - Step 1     
+18. Check out our free course on ANN for Regression    
+19. Building an ANN - Step 2    
+20. Building an ANN - Step 3    
+21. Building an ANN - Step 4    
+22. Building an ANN - Step 5    
+
+### Section 5: Part 2 - Convolutional Neural Networks
+23. Welcome to Part 2 - Convolutional Neural Networks    
+
+### Section 6: CNN Intuition 
+24. What You'll Need for CNN    
+25. Plan of Attack    
+26. What Are Convolutional Neural Networks?     
+28. Step 1(b) - ReLU Layer     
+29. Step 2 - Pooling     
+30. Step 3 - Flattening     
+31. Step 4 - Full Connection    
+32. Summary    
+33. Softmax & Cross-Entropy     
+
+### Section 7: Building a CNN
+34. Important Note    
+35. Building a CNN - Step 1     
+36. Building a CNN - Step 2     
+37. Building a CNN - Step 3    
+38. Building a CNN - Step 4    
+39. Building a CNN - Step 5    
+40. Quick Note    
+41. Building a CNN - FINAL DEMO!    
+
+### Section 8: Part 3 - Recurrent Neural Networks
+42. Welcome to Part 3 - Recurrent Neural Networks    
+
+### Section 9: RNN Intuition
+43. What You'll Need for RNN    
+44. Plan of Attack    
+45. The Idea Behind Recurrent Neural Networks     
+46. The Vanishing Gradient Problem     
+47. LSTMs     
+48. Practical Intuition     
+49. EXTRA: LSTM Variations     
+
+### Section 10: Building a RNN 
+50. Important Note    
+51. Building a RNN - Step 1     
+52. Building a RNN - Step 2    
+53. Building a RNN - Step 3    
+54. Building a RNN - Step 4    
+55. Building a RNN - Step 5    
+56. Building a RNN - Step 6    
+57. Building a RNN - Step 7    
+58. Building a RNN - Step 8    
+59. Building a RNN - Step 9    
+60. Building a RNN - Step 10    
+61. Building a RNN - Step 11    
+62. Building a RNN - Step 12    
+63. Building a RNN - Step 13    
+64. Building a RNN - Step 14    
+65. Building a RNN - Step 15    
+
+### Section 11: Evaluation and Improving the RNN
+66. Evaluating The RNN     
+67. Improving The RNN     
+
+### Section 12: Part 4 - Self Organizing Maps 
+68. Welcome to Part 4 - Self Organizing Maps    
+
+### Section 13: SOMs Intuition 
+69. Plan of Attack    
+70. How Do Self-Organizing Maps Work?     
+71. Why Revisit K-Means?    
+72. K-Means Clustering (Refresher)     
+73. How Do Self-Organizing Maps Learn? (Part 1)     
+74. How Do Self-Organizing Maps Learn? (Part 2)    
+75. Live SOM Example    
+76. Reading an Advanced SOM    
+77. Extra: K-Means Clustering (Part 2)     
+78. Extra: K-Means Clustering (Part 3)    
+
+### Section 14: Building a SOM 
+79. How To Get The Dataset    
+80. Building a SOM - Step 1     
+81. Building a SOM - Step 2    
+82. Building a SOM - Step 3    
+83. Building a SOM - Step 4    
+
+### Section 15: Mega Case Study
+84. Mega Case Study - Step 1     
+85. Mega Case Study - Step 2    
+86. Mega Case Study - Step 3    
+87. Mega Case Study - Step 4     
+
+### Section 16: Part 5 - Botzmann Machines
+88. Welcome to Part 5 - Boltzmann Machines    
+
+### Section 17: Boltzmann Machine Intuition
+89. Plan of Attack    
+90. Boltzmann Machine     
+91. Energy-Based Models (EBM)     
+92. Editing Wikipedia - Our Contribution to the World    
+93. Restricted Boltzmann Machine (RBM)      
+94. Contrastive Divergence     
+95. Deep Belief Networks     
+96. Deep Boltzmann Machines     
+
+### Section 18: Building a Boltzmann Machine
+97. How To Get The Dataset    
+98. Installing PyTorch     
+99. Building a Boltzmann Machine - Introduction     
+100. Same Data Preprocessing in Parts 5 and 6     
+101. Building a Boltzmann Machine - Step 1: Downloading the Dataset     
+102. Building a Boltzmann Machine -  Step 2: Preparing the Training Set and the Test Set    
+103. Building a Boltzmann Machine - Step 3: Getting the Number of Users and Movies    
+104. Building a Boltzmann Machine - Step 4: Converting the Data Into an Array    
+105. Building a Boltzmann Machine - Step 5: Converting the Data Into Torch Tensors    
+106. Building a Boltzmann Machine - Step 6: Converting the Ratings Into Binary Ratings 1 (Liked) or 0 (Not Liked)    
+107. Building a Boltzmann Machine - Step 7: Creating the Architecture of the Neural Network (`__init__` function)    
+108. Building a Boltzmann Machine - Step 8: Creating the Architecture of the Neural Network (`sample_h()` function)    
+109. Building a Boltzmann Machine - Step 9: Creating the Architecture of the Neural Network (`sample_v()` function)    
+110. Building a Boltzmann Machine - Step 10:  Creating the Architecture of the Neural Network (`train function()` Contrastive Divergence)   
+111. Building a Boltzmann Machine - Step 11: Creating the Architecture of the Neural Network (Creating `RBM()` Object)    
+112. Building a Boltzmann Machine - Step 12: Training the RBM    
+113. Building a Boltzmann Machine - Step 13: Training the RBM `k` step of Contrastive Divergence    
+114. Building a Boltzmann Machine - Step 14: Testing the RBM (Random Walk vs Blind Walk)    
+115. Evaluating the Boltzmann Machine: Evaluating the RBM (RMSE, Average Distance)     
+
+### Section 19: Part 6 - AutoEncoders
+116. Welcome to Part 6 - AutoEncoders    
+
+### Section 20: AutoEncoders Intuition
+117. Plan of Attack    
+118. Autoencoders     
+119. A Note on Biases     
+120. Training an Autoencoder     
+121. Overcomplete Hidden Layers     
+123. Denoising Autoencoders     
+124. Contractive Autoencoders     
+125. Stacked Autoencoders     
+
+### Section 21: Building an AutoEncoder 
+127. How To Get The Dataset    
+128. Installing PyTorch     
+129. Same Data Preprocessing in Parts 5 and 6    
+130. Building an AutoEncoder - Step 1: Downloading the Dataset     
+131. Building an AutoEncoder - Step 2: Preparing the Training Set and the Test Set     
+132. Building an AutoEncoder - Step 3: Getting the Number of Users and Movies    
+133. Homework Challenge - Coding Exercise    
+134. Building an AutoEncoder - Step 4: Converting the Data Into an Array    
+135. Building an AutoEncoder - Step 5: Converting the Data Into Torch Tensors    
+136. Building an AutoEncoder - Step 6: Creating the Architecture of the Neural Network/Autoencoder (`__init__` function)     
+137. Building an AutoEncoder - Step 7: Creating the Architecture of the Neural Network ( `forward()` function to create `SAE()` object)    
+138. Building an AutoEncoder - Step 8: Training the SAE (output =sae(input))     
+139. Building an AutoEncoder - Step 9: Training the SAE `backward()` and `optimizer()`    
+140. Building an AutoEncoder - Step 10: Training the SAE (Execute Training)    
+141. Building an AutoEncoder - Step 11: Testing the SAE    
+142. Thank You Video    
+
+### Section 22: Annex - Get the Machine Learning Basics
+143. Annex - Get the Machine Learning Basics (Reinforcement Learning aka "Online Learning")     
+
+### Section 23: Regression & Classification Intuition 
+144. What You Need for Regression & Classification     
+145. Simple Linear Regression Intuition - Step 1     
+146. Simple Linear Regression Intuition - Step 2     
+147. Multiple Linear Regression Intuition     
+148. Logistic Regression Intuition    
+
+### Section 24: Data Preprocessing
+149. Data Preprocessing     
+150. The Machine Learning Process     
+151. Splitting The Data Into A Training And Test Set    
+152. Feature Scaling     
+
+### Section 25: Data Preprocessing in Python
+153. Getting Started - Step 1: Downloading the Dataset      
+154. Getting Started - Step 2: Data Preprocessing     
+155. Importing the Libraries     
+156. Importing The Dataset - Step 1: `read_csv()`     
+157. Importing The Dataset - Step 2: Independent Variables Matrix     
+158. Importing The Dataset - Step 3: Dependent Variable Array     
+159. For Python Learners, Summary of Object-Oriented Programming: Classes & Objects     
+160. Taking Care Of Missing Data - Step 1: `SimpleImputer()` Object     
+161. Taking Care Of Missing Data - Step 2: `fit()` and `transform()`     
+162. Encoding Categorical Data - Step 1: Imports `ColumnTransformer` `OneHotEncoder` 
+163. Encoding Categorical Data - Step 2: `ColumnTransformer()`     
+164. Encoding Categorical Data - Step 3: `LabelEncoder()`     
+165. Splitting The Dataset Into The Training Set and Test Set - Step 1: Feature Scaling Intro   
+166. Splitting The Dataset Into The Training Set and Test Set - Step 2: `train_test_split()`     
+167. Splitting The Dataset Into The Training Set and Test Set - Step 3: `train_test_split()` continued...     
+168. Feature Scaling - Step 1: Standardization, Normalization     
+169. Feature Scaling - Step 2: `StandardScalar()`     
+170. Feature Scaling - Step 3: `X_train`  `fit_transform()`     
+171. Feature Scaling - Step 4 `x_test` `transform()` only     
+
+### Section 26: Logistic Regression
+172. Logistic Regression Intuition     
+173. Maximum Likelihood     
+174. Logistic Regression in Python - Step 1A: Download the Data     
+175. Logistic Regression in Python - Step 1B: Data Preprocessing Intro    
+176. Logistic Regression in Python - Step 2A: `import`, `train_test_split()`, `StandardScaler()`    
+177. Logistic Regression in Python - Step 2B: `fit_transform()` `transform()`    
+178. Logistic Regression in Python - Step 3A: Create Classifier Object `LogisticRegression()`    
+179. Logistic Regression in Python - Step 3B: Training the Logistic Regression on the Training Set  `fit()`    
+180. Logistic Regression in Python - Step 4A: `predict()` `predict_log_proba()`  `predict_proba()`    
+181. Logistic Regression in Python - Step 4B: Predicting Single Input    
+182. Logistic Regression in Python - Step 5: Predicting Test Set    
+183. Logistic Regression in Python - Step 6A: `sklearn.metrics.confusion_matrix()`  `sklaern.metrics.accuracy_score()`    
+184. Logistic Regression in Python - Step 6B: Confusion Matrix Evaluation    
+185. Logistic Regression in Python - Step 7A: Visualizing Training Set Results with `matplotlib`    
+186. Logistic Regression in Python - Step 7B: Training Set Visualization Interpretation    
+187. Logistic Regression in Python - Step 7C: - Visualizing the Test Set Results with `matplotlib`    
+188. Logistic Regression in Python - Step 7: Color-Blind Friendly Image    
+189. Machine Learning Regression and Classification Extra Guidance    
+190. Extra Content: Logistic Regression Practical Case Study    
+
+### Section 27: Congratulations! Don't Forget Your Prize
+191. Huge Congrats For Completing The Challenge!    
+192. Bonus: How To UNLOCK Top Salaries (Live Training)   
+
 ## [Machine Learning A-Z: AI, Python & R (Udemy)](https://www.udemy.com/course/machinelearning/)
 ### Section 1: Welcome to the Course! 
 1. Welcome Challenge!   
