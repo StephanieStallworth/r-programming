@@ -1,3 +1,16 @@
+## Insachat Word Prediction App
+[Insachat Word Prediction App Presentation](https://rpubs.com/StephanieStallworth/278519)
+https://rpubs.com/StephanieStallworth
+
+
+## StockTrak  R Shiny App
+https://rpubs.com/StephanieStallworth/269124
+
+
+
+
+
+
 ## [Machine Learning A-Z: AI, Python & R (Udemy)](https://www.udemy.com/course/machinelearning/)
 ### Section 1: Welcome to the Course! 
 1. Welcome Challenge!   
