@@ -43,7 +43,7 @@ R Markdown presentation demonstrating how to create an interactive graph with Pl
 Analysis of severe weather events using U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database.    
 
 ### Swiftkey EDA Basic  
-[Predictive Text Exploratory Analysis](https://rpubs.com/StephanieStallworth/276072)  
+[Predictive Text Exploratory Analysis | rpubs.com](https://rpubs.com/StephanieStallworth/276072)  
 Report demonstrating exploratory analysis and Natural Language Processing (NLP) techniques for the eventual development of a predictive text model and app.  
 
 ### Swiftkey EDA Word Cloud N-Gram  
@@ -69,7 +69,7 @@ R Shiny app predicting text based on user input.
 ## Regression Models  
 
 ### Linear Regression Cars MPG  
-[Regression Modeling with `mtcars` Dataset | rpubs.com](https://rpubs.com/StephanieStallworth/267819)  
+[Regression Modeling with mtcars Dataset | rpubs.com](https://rpubs.com/StephanieStallworth/267819)  
 Regression analysis exploring the mtcars data set.  
 
 ### Linear Regression Longley  
@@ -81,7 +81,7 @@ Demonstrating four popular linear regression techniques on the Longley employmen
 Fitting four non-linear regression techniques to Longley dataset.      
 
 ## StockTrak  R Shiny App
-[StockTrak Shiny App](https://rpubs.com/StephanieStallworth/269124)  
+[StockTrak Shiny App | rpubs.com](https://rpubs.com/StephanieStallworth/269124)  
 R Shiny application designed to report stock performance over a selected period of time.    
 
 ## R Tidy Datasets    
